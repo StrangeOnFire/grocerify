@@ -6,7 +6,7 @@ import { Link, NavLink, Outlet } from 'react-router-dom';
 
 export default function Header() {
  
-
+// this is a fixed header
   return (
     <>
       <div className=' fixed z-50 left-0 top-0 w-full h-fit'>

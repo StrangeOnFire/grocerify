@@ -25,7 +25,7 @@ export default function Header() {
           </div>
         </div>
       </div>
-        <div className='flex header font-bold justify-around pt-2 pb-2 text-sm pb-1'>
+        <div className='flex header font-bold justify-around pt-2 pb-2 text-sm '>
           <NavLink to={'/'}  >Home</NavLink>
           <NavLink to={'/Categories'}  >Categories</NavLink>
           <NavLink to={'/GroupBuy'}  >Group Buy</NavLink>
